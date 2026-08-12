@@ -1,7 +1,6 @@
 # FridaLab Write-up
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FridaLab-Write--up-7bd88f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android-Hooking-34a853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JADX-Static%20Analysis-ffb347?style=for-the-badge" />
   <a href="https://ajar-turquoise-862.notion.site/FridaLab-3ba4bfd02eb580db8d58e6603f61bef9">
